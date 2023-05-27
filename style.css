@@ -9,5 +9,8 @@
   height: 90vh;
   padding: 0;
   margin: 0;
-  background-color: rgb(31, 90, 199);
+  /* background-color: rgb(31, 90, 199); */
+  background-image: url(/image10.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
